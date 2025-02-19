@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Elements
-image: assets/images/pic01.jpg
+title: Concept
+description: 'Messages'
+image: assets/images/pic07.jpg
 nav-menu: true
 ---
 
