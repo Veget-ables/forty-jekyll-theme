@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Works
-description: NFT
+title: Gallery
+description: NFT Works
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
